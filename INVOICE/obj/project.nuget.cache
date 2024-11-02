@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAmuGwh0opPPRVIw8rzK+4W4QE+/XLsAFzsX9oywPiZHazIzYcuCkdmSUtyi5eFqVbYYjtvebUzjTm1lFNpcdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\GIT\\INVOICE\\INVOICE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\questpdf\\2024.10.2\\questpdf.2024.10.2.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Izuchukwu.Okorie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
